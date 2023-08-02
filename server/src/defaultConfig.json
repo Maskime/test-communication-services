@@ -1,12 +1,12 @@
 {
   "communicationServicesConnectionString": "endpoint=your_endpoint;accesskey=secret",
-  "microsoftBookingsUrl": "https://microsoftbookings.azurewebsites.net/?organization=financialservices&UICulture=en-US",
-  "chatEnabled": true,
-  "screenShareEnabled": true,
+  "microsoftBookingsUrl": "",
+  "chatEnabled": false,
+  "screenShareEnabled": false,
   "companyName": "Lamna Healthcare",
-  "colorPalette": "#0078d4",
-  "waitingTitle": "Thank you for choosing Lamna Healthcare",
-  "waitingSubtitle": "Your clinician is joining the meeting",
+  "colorPalette": "#B43B66",
+  "waitingTitle": "",
+  "waitingSubtitle": "",
   "logoUrl": "",
   "postCall": {
     "survey": {
